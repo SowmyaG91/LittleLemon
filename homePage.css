@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    width: 0px;
+
+}
+
+.logo{
+    background-color: grey;
+    width :90%;
+    margin: auto;
+    height: 100vh;
+}
